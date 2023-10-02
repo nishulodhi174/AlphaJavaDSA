@@ -1,4 +1,4 @@
-package RECURSION;
+package gitwork.AlphaJavaDSA.Recursion;
 
 public class Exercise8 {
     public static void main(String[] args) {
